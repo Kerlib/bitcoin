@@ -1,0 +1,28 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: ''
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1625493691378
+  login: 0
+money: '0'
+lastlocation:
+  world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
+  x: 224.48382125189238
+  y: 76.0
+  z: -2244.0113233662923
+  yaw: -179.5052490234375
+  pitch: 57.90000534057617
