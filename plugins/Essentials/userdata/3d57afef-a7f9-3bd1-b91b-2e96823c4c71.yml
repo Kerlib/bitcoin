@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: ''
+ip-address: 192.168.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,13 +16,21 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1625493688739
-  login: 0
+  logout: 1625557070339
+  login: 1625555958556
 money: '0'
 logoutlocation:
   world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
-  x: 46.53673523849935
-  y: 72.0
-  z: -37.137868197486775
-  yaw: 2.322601318359375
-  pitch: 26.666858673095703
+  x: -0.9527060578729336
+  y: 27.74446976015465
+  z: 15.300000011920929
+  yaw: 7.124165058135986
+  pitch: 83.61599731445312
+last-account-name: Ethereum
+lastlocation:
+  world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
+  x: 96.43635059841161
+  y: 71.0
+  z: -83.06400384140672
+  yaw: 177.66766357421875
+  pitch: 5.896359920501709

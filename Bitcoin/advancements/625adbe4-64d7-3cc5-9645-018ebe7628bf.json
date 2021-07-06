@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-07-06 15:43:42 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-05 13:42:00 +0900"
@@ -698,6 +704,7 @@
       "minecraft:zombified_piglin": "2021-06-06 13:53:48 +0900",
       "minecraft:wither_skeleton": "2021-06-06 13:48:12 +0900",
       "minecraft:piglin": "2021-06-06 13:15:03 +0900",
+      "minecraft:enderman": "2021-07-06 16:05:46 +0900",
       "minecraft:zombie": "2021-06-05 13:20:55 +0900",
       "minecraft:drowned": "2021-07-03 19:25:23 +0900"
     },
