@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1625557070326
-  login: 1625553161486
+  logout: 1625890823947
+  login: 1625890831285
 money: '0'
 lastlocation:
   world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
@@ -27,3 +27,10 @@ lastlocation:
   yaw: -117.74993133544922
   pitch: -16.79999542236328
 last-account-name: Kerlib
+logoutlocation:
+  world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
+  x: -669.6581440083916
+  y: 51.01641010755147
+  z: 1030.0572434262485
+  yaw: -126.36474609375
+  pitch: 9.450011253356934
