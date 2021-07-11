@@ -16,16 +16,16 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1625894322344
-  login: 1625889421449
+  logout: 1625980779541
+  login: 1625980870263
 money: '0'
 logoutlocation:
   world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
-  x: 31.69999998807907
-  y: 70.0
-  z: -36.891701880755235
-  yaw: -41.73610305786133
-  pitch: 16.801837921142578
+  x: 60.74648518493114
+  y: 86.0
+  z: -61.46669375114119
+  yaw: 2.174126148223877
+  pitch: 24.30007553100586
 last-account-name: Ethereum
 lastlocation:
   world: e70ed78c-68b4-4329-8ff6-6d14d8d09a5a
