@@ -759,6 +759,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-06-05 13:57:06 +0900",
       "minecraft:ghast": "2021-06-12 15:43:32 +0900",
+      "minecraft:hoglin": "2021-07-16 23:50:09 +0900",
       "minecraft:spider": "2021-06-05 13:52:46 +0900",
       "minecraft:creeper": "2021-06-12 16:24:39 +0900",
       "minecraft:phantom": "2021-07-14 10:35:37 +0900",
@@ -3313,6 +3314,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2021-06-05 13:40:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2021-07-16 22:59:12 +0900"
     },
     "done": true
   },
