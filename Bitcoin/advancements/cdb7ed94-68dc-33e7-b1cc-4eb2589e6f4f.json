@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-19 15:23:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2021-06-05 13:32:32 +0900"
@@ -194,6 +200,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2021-07-17 17:44:15 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-19 15:23:16 +0900"
     },
     "done": true
   },
@@ -694,6 +706,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_the_recipe": "2021-07-18 11:36:40 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-19 15:23:16 +0900"
     },
     "done": true
   },
@@ -1925,6 +1943,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2021-07-19 15:23:16 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2021-06-05 14:07:59 +0900"
@@ -1956,6 +1980,12 @@
       "minecraft:nether_wastes": "2021-06-06 13:28:10 +0900",
       "minecraft:warped_forest": "2021-06-06 13:41:02 +0900",
       "minecraft:basalt_deltas": "2021-06-06 13:37:44 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2021-07-19 15:23:16 +0900"
     },
     "done": true
   },
